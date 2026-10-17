@@ -1,0 +1,1 @@
+ATMOS-inspired visual redesign applied to static/index.html and static/style.css. Original backend, API, JS, ML and firmware retained. Run bash start.command, open http://127.0.0.1:8000 and hard-refresh Cmd+Shift+R. Verify running server is from this extracted folder.
